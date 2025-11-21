@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+diffusers
+transformers
+torch
+accelerate
+jinja2
+Pillow
+imageio
+imageio-ffmpeg
+matplotlib
+pyttsx3
+imageio-ffmpeg
+matplotlib
+pyttsx3
