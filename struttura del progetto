@@ -1,0 +1,11 @@
+giorgio-intelligence/
+├── app.py
+├── requirements.txt
+├── Dockerfile
+├── render.yaml        # (solo se vuoi pubblicare su Render.com)
+├── static/
+│   ├── immagini/
+│   ├── video/
+│   ├── musica/
+│   ├── voce/
+│   └── grafici/
